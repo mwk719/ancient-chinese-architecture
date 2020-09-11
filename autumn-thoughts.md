@@ -35,7 +35,7 @@
 
 4. Stand still for a while;
 
-   <img src="http://qn.minwk.top/img/微信图片_20200910181837.jpg" alt="微信图片_20200910181837" style="zoom: 30%;" />
+   <img src="http://qn.minwk.top/img/微信图片_20200910181837.jpg" alt="微信图片_20200910181837" style="max-width:50%;" />
 
 5. Then stick together every four;
 
@@ -45,20 +45,20 @@
 
    Example.
 
-   <img src="http://qn.minwk.top/img/微信图片_20200910181837.jpg" alt="微信图片_20200910181837" style="zoom: 30%;" />
+   <img src="http://qn.minwk.top/img/微信图片_20200910181837.jpg" alt="微信图片_20200910181837" style="max-width:50%;" />
 
    floor
 
-   <img src="http://qn.minwk.top/img/微信图片_20200911120412.jpg" alt="微信图片_20200911120412" style="zoom:30%;" />
+   <img src="http://qn.minwk.top/img/微信图片_20200911120412.jpg" alt="微信图片_20200911120412" style="max-width:50%;" />
 
    roof, wall
 
 8. Spliced into a basic nest and covered with a roof
 
-   <img src="http://qn.minwk.top/img/微信图片_20200911121105.jpg" alt="微信图片_20200911121105" style="zoom:30%;" />
+   <img src="http://qn.minwk.top/img/微信图片_20200911121105.jpg" alt="微信图片_20200911121105" style="max-width:50%;" />
 
 ### Effect
 
-<img src="http://qn.minwk.top/img/微信图片_20200911121403.jpg" alt="微信图片_20200911121403" style="zoom:30%;" />
-<img src="http://qn.minwk.top/img/微信图片_20200911121406.jpg" alt="微信图片_20200911121406" style="zoom:30%;" />
-<img src="http://qn.minwk.top/img/微信图片_20200911121400.jpg" alt="微信图片_20200911121400" style="zoom:30%;" />
+<img src="http://qn.minwk.top/img/微信图片_20200911121403.jpg" alt="微信图片_20200911121403" style="max-width:50%;" />
+<img src="http://qn.minwk.top/img/微信图片_20200911121406.jpg" alt="微信图片_20200911121406" style="max-width:50%;" />
+<img src="http://qn.minwk.top/img/微信图片_20200911121400.jpg" alt="微信图片_20200911121400" style="max-width:50%;" />

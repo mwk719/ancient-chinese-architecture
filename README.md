@@ -1,11 +1,15 @@
-# [Ancient Chinese Architecture](https://github.com/mwk719/ancient-chinese-architecture)
-
-Chinese ancient architectural design and construction
+# [Manual model](https://github.com/mwk719/manual-model)
 
 ## Introcution
 
-This project is to spread the essence of ancient Chinese architecture
+A project for lovers of homemade handmade models
+
+## Collaborator
+
+- Participants who like to make handmade models are welcome to submit their own designs
+- Submit your own production process and final effect
 
 ## promise
 
 This project will be updated from time to time
+

@@ -1,6 +1,6 @@
 # [Manual model](https://github.com/mwk719/manual-model)
 
-## Introcution
+## Introduction
 
 A project for lovers of homemade handmade models
 
